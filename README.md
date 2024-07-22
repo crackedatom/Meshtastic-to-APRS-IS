@@ -17,8 +17,8 @@ This script will pull the Meshtastic node DB from a local node and upload positi
    
    ```sh
    cd ~
-   git clone https://github.com/TheCommsChannel/TC2-BBS-mesh.git
-   cd TC2-BBS-mesh
+   git clone https://github.com/crackedatom/Meshtastic-to-APRS-IS.git
+   cd Meshtastic-to-APRS-IS
    ```
 
 2. Set up a Python virtual environment:  
