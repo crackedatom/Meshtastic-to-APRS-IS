@@ -57,3 +57,5 @@ Run the script with:
 ```sh
 python meshaprsis.py
 ```
+
+![Screenshot of SARTrack populated by Meshtastic nodes](images/sartrack.png)
